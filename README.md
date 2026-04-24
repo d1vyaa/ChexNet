@@ -152,6 +152,5 @@ ChexNet/
 - Stanford ML Group: https://stanfordmlgroup.github.io/projects/chexnet/
 
 
-**Divya Shubhangi** — 23/CS/143
 B.Tech Computer Science, Delhi Technological University
 GitHub: [@d1vyaa](https://github.com/d1vyaa)
