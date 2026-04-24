@@ -150,7 +150,3 @@ ChexNet/
 - Huang, G., Liu, Z., van der Maaten, L., & Weinberger, K. Q. (2016). *Densely Connected Convolutional Networks.* arXiv:1608.06993
 - Wang, X., Peng, Y., Lu, L., et al. (2017). *ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks.*
 - Stanford ML Group: https://stanfordmlgroup.github.io/projects/chexnet/
-
-
-B.Tech Computer Science, Delhi Technological University
-GitHub: [@d1vyaa](https://github.com/d1vyaa)
